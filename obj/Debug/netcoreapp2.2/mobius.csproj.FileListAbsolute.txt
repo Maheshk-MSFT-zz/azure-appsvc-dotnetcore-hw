@@ -1,0 +1,17 @@
+C:\temp\mobius\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\appsettings.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\mobius.deps.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\mobius.runtimeconfig.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\mobius.runtimeconfig.dev.json
+C:\temp\mobius\bin\Debug\netcoreapp2.2\mobius.dll
+C:\temp\mobius\bin\Debug\netcoreapp2.2\mobius.pdb
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.csprojAssemblyReference.cache
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.csproj.CoreCompileInputs.cache
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.RazorAssemblyInfo.cache
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.RazorAssemblyInfo.cs
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.AssemblyInfoInputs.cache
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.AssemblyInfo.cs
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.RazorTargetAssemblyInfo.cache
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.dll
+C:\temp\mobius\obj\Debug\netcoreapp2.2\mobius.pdb
